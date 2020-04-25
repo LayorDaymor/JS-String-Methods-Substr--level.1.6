@@ -1,1 +1,1 @@
-# JS-String-Methods-Substr--level.1.6
+# JS-String-Methods-Substr-level.1.6
